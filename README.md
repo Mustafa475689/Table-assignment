@@ -1,2 +1,2 @@
 # Table-assignment
-In this assignment we have nested list ,number list and bullet list.
+In this assignment we have nested table ,marks sheet, time table  and seminar.
